@@ -1,0 +1,5 @@
+.git/
+.git
+venv/
+memory.json
+venv.txt
